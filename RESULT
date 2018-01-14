@@ -1,0 +1,5 @@
+f2(x) = 1 - x
+f1(x,y) = x * y
+f7(x,y) = Math.floor(((x + y + 1) / 2))
+f9(x,y) = 1 - Math.abs(x - y)
+f13(x,y) = Math.ceil(((1 - x + y) / 2))
